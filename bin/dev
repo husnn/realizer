@@ -1,0 +1,2 @@
+require("dotenv-flow").config();
+require("../src/index.ts");
